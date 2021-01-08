@@ -1,6 +1,6 @@
 # Tools
 
-A simple bash script made to make your life easier! Optimized for raspian Os and most debian distros this simple bash script will install a largevariety of Pentesting tools for you all straight from the terminal!
+A simple bash script made to make your life easier! Optimized for Raspian Os and most debian distros this simple bash script will install a large variety of Pentesting tools for you all straight from the terminal!
 
 ## Installation
 
@@ -14,7 +14,7 @@ cd Tools
 ## Usage
 
 ```bash
-bash tools.sh
+bash Tools.sh
 ```
 Then Let The Script Do The Rest!!
 ## Contributing
